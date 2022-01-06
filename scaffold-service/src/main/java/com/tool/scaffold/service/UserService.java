@@ -1,4 +1,4 @@
-package com.tool.scaffold.common;
+package com.tool.scaffold.service;
 
 
 import com.tool.scaffold.common.pojo.dto.UserModel;

@@ -1,12 +1,12 @@
-package com.tool.scaffold.service;
+package com.tool.scaffold.service.impl;
 
+import com.tool.scaffold.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cglib.beans.BeanCopier;
 import org.springframework.stereotype.Component;
 
 import com.tool.scaffold.common.pojo.domain.UserDO;
 import com.tool.scaffold.dao.UserMapper;
-import com.tool.scaffold.common.UserService;
 import com.tool.scaffold.common.pojo.dto.UserModel;
 
 /**

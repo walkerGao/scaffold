@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.tool.scaffold.common.UserService;
+import com.tool.scaffold.service.UserService;
 import com.tool.scaffold.common.pojo.dto.UserModel;
 
 /**
