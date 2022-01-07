@@ -44,11 +44,6 @@
                 <version>${mybatis-spring-boot-starter.version}</version>
                 <type>jar</type>
             </dependency>
-            <dependency>
-                <groupId>com.alibaba</groupId>
-                <artifactId>druid</artifactId>
-                <version>${druid.version}</version>
-            </dependency>
         </dependencies>
     </dependencyManagement>
 
